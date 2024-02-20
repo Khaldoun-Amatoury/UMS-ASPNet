@@ -1,0 +1,14 @@
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Common\bin\Debug\net7.0\Project.Common.deps.json
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Common\bin\Debug\net7.0\Project.Common.runtimeconfig.json
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Common\bin\Debug\net7.0\Project.Common.dll
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Common\bin\Debug\net7.0\Project.Common.pdb
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Common\obj\Debug\net7.0\Project.Common.csproj.AssemblyReference.cache
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Common\obj\Debug\net7.0\Project.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Common\obj\Debug\net7.0\Project.Common.AssemblyInfoInputs.cache
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Common\obj\Debug\net7.0\Project.Common.AssemblyInfo.cs
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Common\obj\Debug\net7.0\Project.Common.csproj.CoreCompileInputs.cache
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Common\obj\Debug\net7.0\Project.Common.dll
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Common\obj\Debug\net7.0\refint\Project.Common.dll
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Common\obj\Debug\net7.0\Project.Common.pdb
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Common\obj\Debug\net7.0\Project.Common.genruntimeconfig.cache
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Common\obj\Debug\net7.0\ref\Project.Common.dll
