@@ -1,0 +1,14 @@
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Domain\bin\Debug\net7.0\Project.Domain.deps.json
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Domain\bin\Debug\net7.0\Project.Domain.runtimeconfig.json
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Domain\bin\Debug\net7.0\Project.Domain.dll
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Domain\bin\Debug\net7.0\Project.Domain.pdb
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Domain\obj\Debug\net7.0\Project.Domain.csproj.AssemblyReference.cache
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Domain\obj\Debug\net7.0\Project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Domain\obj\Debug\net7.0\Project.Domain.AssemblyInfoInputs.cache
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Domain\obj\Debug\net7.0\Project.Domain.AssemblyInfo.cs
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Domain\obj\Debug\net7.0\Project.Domain.csproj.CoreCompileInputs.cache
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Domain\obj\Debug\net7.0\Project.Domain.dll
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Domain\obj\Debug\net7.0\refint\Project.Domain.dll
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Domain\obj\Debug\net7.0\Project.Domain.pdb
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Domain\obj\Debug\net7.0\Project.Domain.genruntimeconfig.cache
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Domain\obj\Debug\net7.0\ref\Project.Domain.dll
