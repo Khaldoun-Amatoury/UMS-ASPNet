@@ -1,0 +1,17 @@
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Persistance\bin\Debug\net7.0\Project.Persistance.deps.json
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Persistance\bin\Debug\net7.0\Project.Persistance.runtimeconfig.json
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Persistance\bin\Debug\net7.0\Project.Persistance.dll
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Persistance\bin\Debug\net7.0\Project.Persistance.pdb
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Persistance\obj\Debug\net7.0\Project.Persistance.csproj.AssemblyReference.cache
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Persistance\obj\Debug\net7.0\Project.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Persistance\obj\Debug\net7.0\Project.Persistance.AssemblyInfoInputs.cache
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Persistance\obj\Debug\net7.0\Project.Persistance.AssemblyInfo.cs
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Persistance\obj\Debug\net7.0\Project.Persistance.csproj.CoreCompileInputs.cache
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Persistance\obj\Debug\net7.0\Project.Persistance.dll
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Persistance\obj\Debug\net7.0\refint\Project.Persistance.dll
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Persistance\obj\Debug\net7.0\Project.Persistance.pdb
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Persistance\obj\Debug\net7.0\Project.Persistance.genruntimeconfig.cache
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Persistance\obj\Debug\net7.0\ref\Project.Persistance.dll
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Persistance\bin\Debug\net7.0\Project.Domain.dll
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Persistance\bin\Debug\net7.0\Project.Domain.pdb
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Persistance\obj\Debug\net7.0\Project.Persistance.csproj.CopyComplete
