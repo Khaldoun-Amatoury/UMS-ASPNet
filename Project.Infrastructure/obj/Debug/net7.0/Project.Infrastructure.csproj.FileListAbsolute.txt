@@ -1,0 +1,14 @@
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Infrastructure\bin\Debug\net7.0\Project.Infrastructure.deps.json
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Infrastructure\bin\Debug\net7.0\Project.Infrastructure.runtimeconfig.json
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Infrastructure\bin\Debug\net7.0\Project.Infrastructure.dll
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Infrastructure\bin\Debug\net7.0\Project.Infrastructure.pdb
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.csproj.AssemblyReference.cache
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.AssemblyInfoInputs.cache
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.AssemblyInfo.cs
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.dll
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Infrastructure\obj\Debug\net7.0\refint\Project.Infrastructure.dll
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.pdb
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Infrastructure\obj\Debug\net7.0\Project.Infrastructure.genruntimeconfig.cache
+D:\Khaldoun\Inmind Academy\UMSProjectKhaldoun\Project.Infrastructure\obj\Debug\net7.0\ref\Project.Infrastructure.dll
